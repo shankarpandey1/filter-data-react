@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filter-data-react/static/css/main.e9b07fe8.css",
+    "main.js": "/filter-data-react/static/js/main.e004367c.js",
+    "index.html": "/filter-data-react/index.html",
+    "main.e9b07fe8.css.map": "/filter-data-react/static/css/main.e9b07fe8.css.map",
+    "main.e004367c.js.map": "/filter-data-react/static/js/main.e004367c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b07fe8.css",
+    "static/js/main.e004367c.js"
+  ]
+}
